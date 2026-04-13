@@ -41,8 +41,8 @@ Players can find and use powerful gems to gain temporary admin abilities:
   **刺客宝石** - 任命刺客的能力
 - **Land Gem** - Land sovereignty management\
   **土地宝石** - 土地主权管理
-- **Magnet Gem** - Item collection powers\
-  **磁铁宝石** - 物品收集能力
+- **Navigation Gem** - Compass tracking to locate other gems  
+  **导航宝石** - 追踪其他宝石的位置
 
 ### Unique Gameplay / 独特玩法
 
